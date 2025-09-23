@@ -1,0 +1,14 @@
+/home/murqin/RiderProjects/timer/timer/bin/Debug/net9.0/timer
+/home/murqin/RiderProjects/timer/timer/bin/Debug/net9.0/timer.deps.json
+/home/murqin/RiderProjects/timer/timer/bin/Debug/net9.0/timer.runtimeconfig.json
+/home/murqin/RiderProjects/timer/timer/bin/Debug/net9.0/timer.dll
+/home/murqin/RiderProjects/timer/timer/bin/Debug/net9.0/timer.pdb
+/home/murqin/RiderProjects/timer/timer/obj/Debug/net9.0/timer.GeneratedMSBuildEditorConfig.editorconfig
+/home/murqin/RiderProjects/timer/timer/obj/Debug/net9.0/timer.AssemblyInfoInputs.cache
+/home/murqin/RiderProjects/timer/timer/obj/Debug/net9.0/timer.AssemblyInfo.cs
+/home/murqin/RiderProjects/timer/timer/obj/Debug/net9.0/timer.csproj.CoreCompileInputs.cache
+/home/murqin/RiderProjects/timer/timer/obj/Debug/net9.0/timer.dll
+/home/murqin/RiderProjects/timer/timer/obj/Debug/net9.0/refint/timer.dll
+/home/murqin/RiderProjects/timer/timer/obj/Debug/net9.0/timer.pdb
+/home/murqin/RiderProjects/timer/timer/obj/Debug/net9.0/timer.genruntimeconfig.cache
+/home/murqin/RiderProjects/timer/timer/obj/Debug/net9.0/ref/timer.dll
