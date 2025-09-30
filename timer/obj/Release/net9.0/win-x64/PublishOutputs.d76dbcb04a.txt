@@ -1,0 +1,2 @@
+/home/murqin/GitHub/timer-cli/timer/bin/Release/net9.0/win-x64/publish/timer-cli-0.0.2-windows-x64.pdb
+/home/murqin/GitHub/timer-cli/timer/bin/Release/net9.0/win-x64/publish/timer-cli-0.0.2-windows-x64.exe

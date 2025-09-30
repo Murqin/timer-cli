@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/murqin/RiderProjects/timer/timer/timer.csproj": {}
+    "/home/murqin/GitHub/timer-cli/timer/timer.csproj": {}
   },
   "projects": {
-    "/home/murqin/RiderProjects/timer/timer/timer.csproj": {
+    "/home/murqin/GitHub/timer-cli/timer/timer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/murqin/RiderProjects/timer/timer/timer.csproj",
-        "projectName": "timer",
-        "projectPath": "/home/murqin/RiderProjects/timer/timer/timer.csproj",
+        "projectUniqueName": "/home/murqin/GitHub/timer-cli/timer/timer.csproj",
+        "projectName": "timer-cli-0.0.2-linux-x64",
+        "projectPath": "/home/murqin/GitHub/timer-cli/timer/timer.csproj",
         "packagesPath": "/home/murqin/.nuget/packages/",
-        "outputPath": "/home/murqin/RiderProjects/timer/timer/obj/",
+        "outputPath": "/home/murqin/GitHub/timer-cli/timer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/murqin/.nuget/NuGet/NuGet.Config"
@@ -43,6 +43,14 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.9, )",
+              "autoReferenced": true
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -58,6 +66,22 @@
             {
               "name": "Microsoft.AspNetCore.App.Ref",
               "version": "[9.0.9, 9.0.9]"
+            },
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.linux-x64",
+              "version": "[9.0.9, 9.0.9]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Crossgen2.linux-x64",
+              "version": "[9.0.9, 9.0.9]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[9.0.9, 9.0.9]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.linux-x64",
+              "version": "[9.0.9, 9.0.9]"
             }
           ],
           "frameworkReferences": {
@@ -66,6 +90,11 @@
             }
           },
           "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.110/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
         }
       }
     }
